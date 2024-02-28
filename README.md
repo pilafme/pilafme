@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vlad
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me  - Telegram - @pilafme
+- 📫 How to reach me  - Tg - @pilafme
